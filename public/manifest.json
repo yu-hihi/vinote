@@ -1,0 +1,18 @@
+{
+  "name": "Wine Notebook",
+  "short_name": "WineNote",
+  "description": "ワインの記録をあなただけのノートに",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#D4B07A",
+  "theme_color": "#5C3A1E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
